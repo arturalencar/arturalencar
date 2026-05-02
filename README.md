@@ -1,7 +1,6 @@
 
-
 <!-- HEADER -->
-<div align="center">
+<div style="background: url('./assets/HYPERDRIVE-GIF-BANNER.gif') no-repeat center center / cover; text-align: center;">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -20,7 +19,6 @@
 
 </div>
 
----
 
 ## ▶ DRIVER STATS
 
