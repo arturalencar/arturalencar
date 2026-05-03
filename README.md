@@ -28,7 +28,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  DRIVER     : Artur Alencar                                 |
-│  CLASS      : Full Stack Developer                          |
+│  CLASS      : Front-End Developer                          |
 │  VEHICLE    : Code Machine v2.0                             |
 │  TRACK      : Web Development International Circuit         |              
 │  STATUS     : ● ONLINE — READY TO RACE                      |
