@@ -3,7 +3,7 @@
 **`Front-End Developer | UI/UX Designer | Tech Explorer`**
 
 ### 🏎️ About Me
-I’m a Computer Science student based in Brazil, currently kickstarting my career as a Front-End Developer. Right now, my main focus is on crafting clean, precision, and intuitive interfaces that deliver amazing user experiences. But my curiosity doesn't stop at the UI! I love exploring how things work under the hood and have a huge interest in diving deep into **Back-End development, Cloud Architecture, and Cybersecurity** in the future. 
+I’m a Computer Science student based in Brazil, currently kickstarting my career as a Front-End Developer. Right now, my main focus is on crafting clean, precision, and intuitive interfaces that deliver amazing user experiences. But my curiosity doesn't stop at the UI! I love exploring how things work under the hood and have a huge interest in diving deep into **Back-End development and Cloud Architecture** in the future. 
 
   - 💡 **Innovation & Strategy:** Active member of the Innovation Hub (academic league for tech and entrepreneurship), where I work on branding and project development.
 
@@ -26,10 +26,6 @@ Here is what I've been using to bring ideas to life:
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="React" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" title="Next.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" title="Java" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" title="SpringBoot" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
   <img width="12" />
@@ -68,8 +64,8 @@ Instead of just writing code, I focus on shipping solutions. Here are a few thin
 
 ### 👻 AFK (Away From Keyboard)
 If I'm not tweaking a layout in Figma or coding something interesting, I'm probably:
-*   Watching some car race (from F1 to Volks Beetle racing, i'm serious) and geeking out over the engineering.
-*   Out on the trails with my mountain bike.
+*   Watching some car race and geeking out over the engineering.
+*   Out on the trails with my bike.
 
 ### 🤝 Let's build something cool
 
